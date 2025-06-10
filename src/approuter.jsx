@@ -4,7 +4,7 @@ import {BrowserRouter} from 'react-router-dom'
 import { Nav } from './nav'
 import Router from './router'
 
-export const Browser=()=>{
+export const Approuter=()=>{
     return(
         <div>
             <BrowserRouter>
